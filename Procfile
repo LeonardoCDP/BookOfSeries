@@ -1,0 +1,1 @@
+web: gunicorn bookofseries.wsgi --log-file -

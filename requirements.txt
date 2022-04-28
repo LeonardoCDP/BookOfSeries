@@ -1,0 +1,9 @@
+wheel
+dj-database-url
+dj-static
+Django==3.2
+python-decouple
+gunicorn
+psycopg2-binary
+django-ninja
+Pillow
